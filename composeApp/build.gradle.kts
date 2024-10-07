@@ -83,7 +83,7 @@ kotlin {
 }
 
 android {
-    namespace = "com.afapps.managenotification"
+    namespace = "com.afapps.notificationSaver"
     compileSdk = libs.versions.android.compileSdk.get().toInt()
 
     sourceSets["main"].manifest.srcFile("src/androidMain/AndroidManifest.xml")
@@ -91,7 +91,7 @@ android {
     sourceSets["main"].resources.srcDirs("src/commonMain/resources")
 
     defaultConfig {
-        applicationId = "com.afapps.managenotification"
+        applicationId = "com.afapps.notificationSaver"
         minSdk = libs.versions.android.minSdk.get().toInt()
         targetSdk = libs.versions.android.targetSdk.get().toInt()
         versionCode = 1
