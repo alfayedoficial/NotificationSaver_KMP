@@ -32,9 +32,7 @@ import com.afapps.notificationSaver.presentation.features.home.components.Notifi
 import com.afapps.notificationSaver.presentation.features.home.state.HomeIntent
 import com.afapps.notificationSaver.presentation.features.home.viewModel.HomeViewModel
 import com.afapps.notificationSaver.presentation.navigation.MenuNav
-import kotlinproject.composeapp.generated.resources.Res
-import kotlinproject.composeapp.generated.resources.notifications
-import kotlinproject.composeapp.generated.resources.settings
+import kotlinproject.composeapp.generated.resources.*
 import org.jetbrains.compose.resources.stringResource
 import org.koin.compose.viewmodel.koinViewModel
 

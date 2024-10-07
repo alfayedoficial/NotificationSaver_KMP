@@ -30,8 +30,7 @@ import com.afapps.notificationSaver.core.utilities.DisplayIcon
 import com.afapps.notificationSaver.core.utilities.DisplayImage
 import com.afapps.notificationSaver.core.utilities.formatTime
 import com.afapps.notificationSaver.domain.model.SubNotification
-import kotlinproject.composeapp.generated.resources.Res
-import kotlinproject.composeapp.generated.resources.ic_nsaver
+import kotlinproject.composeapp.generated.resources.*
 import org.jetbrains.compose.resources.painterResource
 
 @OptIn(ExperimentalMaterialApi::class)

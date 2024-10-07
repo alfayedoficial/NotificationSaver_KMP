@@ -31,9 +31,7 @@ import com.afapps.notificationSaver.core.utilities.itemsIndexed
 import com.afapps.notificationSaver.presentation.features.home.state.HomeIntent
 import com.afapps.notificationSaver.presentation.features.home.state.HomeState
 import com.afapps.notificationSaver.presentation.features.home.viewModel.HomeViewModel
-import kotlinproject.composeapp.generated.resources.Res
-import kotlinproject.composeapp.generated.resources.notifications
-import kotlinproject.composeapp.generated.resources.settings
+import kotlinproject.composeapp.generated.resources.*
 import kotlinx.coroutines.flow.StateFlow
 import org.jetbrains.compose.resources.stringResource
 import org.koin.compose.viewmodel.koinViewModel
