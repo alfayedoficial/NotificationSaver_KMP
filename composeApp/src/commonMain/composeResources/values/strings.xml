@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Notification Saver</string>
+
+    <string name="notifications">Notifications</string>
+    <string name="settings">Settings</string>
+    <string name="notification_access">Notification Access</string>
+    <string name="sync_data_google_drive">Sync Data to Google Drive</string>
+    <string name="language">Language</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="remove_ads">Remove Ads</string>
+    <string name="rate_app">Rate App</string>
+    <string name="version_name">Version 1.0</string>
+    <string name="developed_by">Developed by Ali Al Fayed</string>
+    <string name="sender">Sender: %1$s</string>
+    <string name="app">App: %1$s</string>
+    <string name="time">Time: %1$s</string>
+    <string name="content">Content: %1$s</string>
+
+    <string name="admob_app_id" translatable="false">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="ad_unit_id" translatable="false">ca-app-pub-3940256099942544/5224354917</string>
+
+</resources>
